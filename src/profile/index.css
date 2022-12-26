@@ -1,0 +1,20 @@
+.wd-profile-page {
+    margin-left:-80px;
+    margin-right: -90px
+}
+
+.wd-profile-header {
+    color: #158CBA
+}
+
+.wd-logout-button {
+    background-color: #158CBA;
+    color: white;
+    border-color: transparent;
+    border-radius: 10px;
+}
+
+.wd-profile-reviews {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}

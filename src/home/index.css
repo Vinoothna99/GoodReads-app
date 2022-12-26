@@ -1,0 +1,30 @@
+.wd-homepage {
+    margin-left: -100px;
+}
+
+.wd-searchbar {
+    margin-left: 0px
+}
+
+.wd-about-heading {
+    width: 52%;
+    color: #158CBA;
+    text-decoration: none;
+}
+
+.wd-about-content {
+    width: 50%
+}
+
+.wd-homepage-link {
+    text-decoration: none;
+}
+
+.wd-reviews-list {
+    width: 50%;
+    border-radius: 25px;
+}
+
+.wd-review-link {
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+.wd-review-username {
+    color: #158CBA;
+    text-decoration: none;
+}
+
+.wd-review-box {
+    border: solid;
+    border-bottom: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    border-color: rgb(235, 222, 222);
+    padding-bottom: 0px;
+    margin-bottom: 40px;
+}
+
+.cap-first-letter {
+    text-transform:capitalize;
+}
+
+.wd-mod-delete-button {
+    float: right;
+    background-color: #158CBA;
+    color: white;
+    border-color: transparent;
+    border-radius: 10px;
+    margin-top: -10px;
+
+}
